@@ -1,0 +1,23 @@
+button {
+    display: block;
+    margin: 10px auto;
+}
+
+div {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-color: rgb(6, 4, 131);
+    border: rgb(6, 4, 131) 2px solid;
+    color: aliceblue;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+}
+
+.circle {
+    background-color: aliceblue;
+    color: rgb(6, 4, 131);
+    border-radius: 50%;
+    border: rgb(6, 4, 131) 2px solid;
+}
